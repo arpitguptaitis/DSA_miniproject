@@ -7,6 +7,7 @@ This phone book management application represents a harmonious blend of simplici
 This phone book management system delivers a reliable and user-centric solution for organizing and accessing contact details.
 # FUNCTIONALITIES OF OUR PROJECT
 Add Contact - this function is used to add a contact to the list.
+
 Delete Contact - this function is used to remove a contact from the list.
 Search Contact – this function  helps to search a given number using the name as key.
 Show in Ascending Order - arranges the list in ascending order.
